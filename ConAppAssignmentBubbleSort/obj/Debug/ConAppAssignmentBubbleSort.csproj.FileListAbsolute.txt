@@ -1,0 +1,7 @@
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\bin\Debug\ConAppAssignmentBubbleSort.exe.config
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\bin\Debug\ConAppAssignmentBubbleSort.exe
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\bin\Debug\ConAppAssignmentBubbleSort.pdb
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\obj\Debug\ConAppAssignmentBubbleSort.csproj.AssemblyReference.cache
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\obj\Debug\ConAppAssignmentBubbleSort.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\obj\Debug\ConAppAssignmentBubbleSort.exe
+C:\DOT NET\Day 10\ConAppAssignmentBubbleSort\ConAppAssignmentBubbleSort\obj\Debug\ConAppAssignmentBubbleSort.pdb
